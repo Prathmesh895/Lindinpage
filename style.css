@@ -11,6 +11,30 @@
     direction: ltr;
 
 }
+.left-item-contaihner > .a > .home{
+    width: 30px;
+    height: 30px;
+    position: relative;
+    left: 12px;
+    top: 15px;
+    clear: both;
+}
+.left-item-contaihner > .a > .mynetwork{
+    width: 30px;
+    height:30px;
+    position: relative;
+    top: -20px;
+    left: 52px;
+
+}
+.left-item-contaihner > .a > .jobs{
+    width: 30px;
+    height:30px;
+    position: relative;
+    top: -20px;
+    left:32px;
+
+}
 /* hover for nav bar content*/
 .a:hover{
     color:blue;

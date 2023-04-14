@@ -88,6 +88,22 @@
     margin-left: 50px;
     text-decoration: none;
 }
+.post2 > .post2text >.post2text2{
+
+    float: left;
+
+}
+.yash-icon{
+    overflow: hidden;
+    position: relative;
+    left: 10px;
+    top: 5px;
+    border-radius: 50%;
+    height: 40px;
+    width: 40px;
+
+
+}
 .post2text{
     margin-left: 6px;
     margin-top: 5px;
