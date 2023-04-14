@@ -97,13 +97,19 @@
     text-decoration: none;
     color: black;
     position: relative;
-    top: 20px;
-    
+    font-weight: bold;
+}
+.name > .name2{
+    font-size: 12px;
+
 }
 .l2{
+    padding: 10px;
     width: 100%;
-    height: 120px;
+    height:80px;
     text-align: center;
+    border-radius: 10px;
+    line-height: 15px;
 }
 
 .right{
@@ -114,6 +120,8 @@
     border-radius: 5px ;
     background-color:#fff;
     box-shadow:1px 1px 1px 1px  #ccc;
+    position: relative;
+    bottom: 800px;
 }
 
 .r2{
@@ -122,6 +130,7 @@
   border-color: #df268c;
   border-top: 2px solid black;
   margin-top: 100px;
+  border-radius: 10px;
     
     
 }
@@ -132,4 +141,8 @@
     position: relative;
     bottom: 40px;
     left: 100px;
+}
+.a30{
+    text-align:rtl;
+
 }

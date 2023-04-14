@@ -21,7 +21,7 @@
 }
 .form-control{
     margin-left:10px;
-    width: 400px;
+    width: 200%;
     height: 30px;
     border-radius:20px;
 }
@@ -72,8 +72,7 @@
     height: 40%;
     width: 100%;
     position: relative;
-    bottom: 340px;
-    
+    bottom: 340px;   
 }
 .post2{
     width: 100%;
@@ -88,12 +87,8 @@
     margin-left: 50px;
     text-decoration: none;
 }
-.post2 > .post2text >.post2text2{
-
-    float: left;
-
-}
 .yash-icon{
+    float: left;
     overflow: hidden;
     position: relative;
     left: 10px;
@@ -105,12 +100,15 @@
 
 }
 .post2text{
-    margin-left: 6px;
-    margin-top: 5px;
+    position: relative;
+    left: 20px;
+    top: 15px;
+    line-height: 11px;
 }
 .demo-video-post2{
     overflow: hidden;
     position: relative;
+    top: 10px;
     width: 100%;
     height:300px; 
 }

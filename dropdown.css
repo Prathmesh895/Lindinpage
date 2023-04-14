@@ -20,11 +20,11 @@
     border-color: #000000 transparent transparent transparent;
 }
 .dropdown > .profile-dropdown {
-    width: 35px;
-    height: 35px;
+    width: 55px;
+    height: 55px;
     border-radius: 50%;
     position: relative;
-    top: 6px;
+    top: 30px;
 }
 .dropdown-content > a{
     text-decoration: none;
