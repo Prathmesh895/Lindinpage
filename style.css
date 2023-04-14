@@ -11,6 +11,7 @@
     direction: ltr;
 
 }
+/* home bar icon*/
 .left-item-contaihner > .a > .home{
     width: 30px;
     height: 30px;
@@ -111,7 +112,7 @@
     border-radius: 10px;
     line-height: 15px;
 }
-
+/* right section*/
 .right{
     float: right;
     width: 20%;
@@ -123,7 +124,7 @@
     position: relative;
     bottom: 800px;
 }
-
+/*right section second part*/
 .r2{
   border: 2px;
   top: 5px;
@@ -134,6 +135,7 @@
     
     
 }
+/*profile pics*/
 .profilep{
     height: 100px;
     width: 100px;
@@ -142,7 +144,4 @@
     bottom: 40px;
     left: 100px;
 }
-.a30{
-    text-align:rtl;
 
-}
